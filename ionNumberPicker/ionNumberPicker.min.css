@@ -1,0 +1,74 @@
+.inp-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 3000;
+    background-color: rgba(0, 0, 0, 0.5)
+}
+
+.inp-drawer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 3001;
+    background-color: white;
+    pointer-events: all
+}
+
+.inp-b {
+    border-color: transparent !important;
+    max-width: 90px !important
+}
+
+.inp-bb-2 {
+    width: 175px;
+    float: right
+}
+
+.inp-bb-3 {
+    width: 255px;
+    float: right
+}
+
+.inp-nm-c {
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    overflow: hidden
+}
+
+.inp-nm-r {
+    text-align: center;
+    font-size: 24px;
+    color: #555;
+    line-height: 40px
+}
+
+.inp-nm-cs {
+    position: fixed;
+    border-color: #11c1f3 !important;
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 1px;
+    width: 150px;
+    height: 40px
+}
+
+.inp-nm-n {
+    height: 40px
+}
+
+.inp-nm-n-last {
+    height: 80px
+}
+
+.inp-content {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 20px
+}

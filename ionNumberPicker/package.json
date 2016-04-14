@@ -1,0 +1,16 @@
+{
+  "name": "ion-number-picker",
+  "version": "1.1.2",
+  "description": "A well designed number picker/spinner for Ionic",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "ionic",
+    "directive",
+    "spinner",
+    "number picker"
+  ],
+  "author": "Ophir Stern"
+}
